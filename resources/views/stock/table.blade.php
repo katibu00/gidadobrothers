@@ -19,7 +19,7 @@
               <th scope="row">{{ $stock->name }}</th>
               <td class="text-center">{{ number_format($stock->buying_price,0) }}</td>
               <td class="text-center">{{ number_format($stock->selling_price,0) }}</td>
-              <td class="text-center">{{ number_format($stock->quantity,0) }}</td>
+              <td class="text-center">{{ number_format($stock->quantity,2) }}</td>
               <td class="text-center">{{ number_format($stock->critical_level,0) }}</td>
               <td class="text-center">
                   <a class="btn btn-sm btn-primary my-1" href="{{route('stock.edit',$stock->id)}}"> <i class="fa fa-edit"></i></a>

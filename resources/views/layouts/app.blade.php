@@ -42,7 +42,7 @@
 
     <!-- Document Title
  ============================================= -->
-    <title>@yield('PageTitle') | El-Habib Plumbing Material and Services Ltd</title>
+    <title>@yield('PageTitle') | Gidado & Brothers Ltd</title>
     <link rel="stylesheet" href="/toastr/toastr.min.css">
 
 </head>
@@ -162,7 +162,7 @@
                 <div class="container clearfix">
 
                     <div class="w-100 center m-0">
-                        <span>Copyrights &copy; 2023 All Rights Reserved - Gidado $ Brothers
+                        <span>Copyrights &copy; 2023 All Rights Reserved - Gidado & Brothers
                             Ltd.</span>
                     </div>
 
