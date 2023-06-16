@@ -34,7 +34,7 @@
                             <div class="form-group row">
                                 <label for="quantity" class="col-sm-3 ">Quantity</label>
                                 <div class="col-sm-9">
-                                    <input type="number" class="form-control" name="quantity" value="{{$stock->quantity}}" id="quantity" placeholder="Quantity">
+                                    <input type="number" class="form-control" name="quantity" step="any" value="{{$stock->quantity}}" id="quantity" placeholder="Quantity">
                                 </div>
                             </div>
                             <div class="form-group row">
