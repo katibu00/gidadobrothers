@@ -83,7 +83,7 @@
                             </div>
                             <div class="col-md-2">
                                 <div class="mb-1">
-                                    <input class="form-control form-control-sm" type="number" step="0.5" name="quantity[]"
+                                    <input class="form-control form-control-sm" type="number" step="any" name="quantity[]"
                                         placeholder="Quantity" required>
                                 </div>
                             </div>
@@ -139,7 +139,7 @@
 
                     <div class="col-md-2">
                         <div class="mb-1">
-                            <input class="form-control form-control-sm" type="number" step="0.5" name="quantity[]" placeholder="Quantity"
+                            <input class="form-control form-control-sm" type="number" step="any" name="quantity[]" placeholder="Quantity"
                                 required>
                         </div>
                     </div>
