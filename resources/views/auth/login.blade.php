@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.108.0">
-    <title>Signin · Gidado & Brothers Ltd</title>
+    <title>Signin · Gidado Brothers Ltd</title>
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <link href="/bootstrap.min.css" rel="stylesheet"
@@ -96,7 +96,7 @@
                 </label>
             </div>
             <button class="w-100 btn btn-lg btn-primary" type="submit" id="submit_btn">Sign in</button>
-            <p class="mt-5 mb-3 text-muted">&copy; Gidado and Brothers Ltd</p>
+            <p class="mt-5 mb-3 text-muted">&copy; Gidado Brothers Ltd</p>
         </form>
     </main>
     <script src="/jquery-3.6.3.min.js"></script>

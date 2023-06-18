@@ -5,7 +5,7 @@
           
         </div>
         <div class="info" style="margin-top: 20px;">
-            <h4>Gidado & Brothers Ltd.</h4>
+            <h4>Gidado Brothers Ltd.</h4>
             <h5 style="text-decoration: underline;">Sales Receipt</h5>
         </div>
         <!--End Info-->

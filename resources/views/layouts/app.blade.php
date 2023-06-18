@@ -42,7 +42,7 @@
 
     <!-- Document Title
  ============================================= -->
-    <title>@yield('PageTitle') | Gidado & Brothers Ltd</title>
+    <title>@yield('PageTitle') | Gidado Brothers Ltd.</title>
     <link rel="stylesheet" href="/toastr/toastr.min.css">
 
 </head>
@@ -64,8 +64,8 @@
                         <!-- Logo
       ============================================= -->
                         <div id="logo">
-                            <a href="#" class="standard-logo"><img src="/logo.jpg" alt="logo"></a>
-                            <a href="#" class="retina-logo"><img src="/logo.jpg" alt="logo"></a>
+                            {{-- <a href="#" class="standard-logo"><img src="/logo.jpg" alt="logo"></a>
+                            <a href="#" class="retina-logo"><img src="/logo.jpg" alt="logo"></a> --}}
                         </div><!-- #logo end -->
 
                         <div class="header-misc ms-0">
@@ -162,7 +162,7 @@
                 <div class="container clearfix">
 
                     <div class="w-100 center m-0">
-                        <span>Copyrights &copy; 2023 All Rights Reserved - Gidado & Brothers
+                        <span>Copyrights &copy; 2023 All Rights Reserved - Gidado Brothers
                             Ltd.</span>
                     </div>
 

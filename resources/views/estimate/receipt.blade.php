@@ -5,7 +5,7 @@
            
         </div>
         <div class="info">
-            <h4>Gidado & Brothers Ltd.</h4>
+            <h4>Gidado Brothers Ltd.</h4>
             <h5 style="text-decoration: underline;">Estimate</h5>
         </div>
         <!--End Info-->
