@@ -24,8 +24,7 @@
                         <div class="col-md-8 mb-4">
                             <div class="card mb-2">
                                 <div class="card-header bg-transparent">
-                                    <marquee behavior="" direction="" class="text-danger"><b>Welcome to El-Habib Plumbing
-                                            Material and Services Ltd - {{ auth()->user()->branch->name }} Branch</b>
+                                    <marquee behavior="" direction="" class="text-danger"><b>Welcome to Gidado Brothers</b>
                                     </marquee>
                                 </div>
                                 <div class="card-body sales-table">
